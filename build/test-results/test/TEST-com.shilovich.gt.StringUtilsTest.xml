@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.shilovich.gt.StringUtilsTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-01-05T09:38:24" hostname="STAS" time="0.433">
+  <properties/>
+  <testcase name="testIsPositiveNumberPositive(String)[1]" classname="com.shilovich.gt.StringUtilsTest" time="0.277"/>
+  <testcase name="testIsPositiveNumberPositive(String)[2]" classname="com.shilovich.gt.StringUtilsTest" time="0.007"/>
+  <testcase name="testIsPositiveNumberPositive(String)[3]" classname="com.shilovich.gt.StringUtilsTest" time="0.016"/>
+  <testcase name="testIsPositiveNumberPositive(String)[4]" classname="com.shilovich.gt.StringUtilsTest" time="0.004"/>
+  <testcase name="testIsPositiveNumberNegative(String)[1]" classname="com.shilovich.gt.StringUtilsTest" time="0.008"/>
+  <testcase name="testIsPositiveNumberNegative(String)[2]" classname="com.shilovich.gt.StringUtilsTest" time="0.005"/>
+  <testcase name="testIsPositiveNumberNegative(String)[3]" classname="com.shilovich.gt.StringUtilsTest" time="0.006"/>
+  <testcase name="testIsPositiveNumberNegative(String)[4]" classname="com.shilovich.gt.StringUtilsTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
